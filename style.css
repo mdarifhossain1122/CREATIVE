@@ -180,3 +180,53 @@
 .container-ten p{
     margin-top: 20px;
 }
+
+
+
+.container-eleven{
+    background-color: black;
+    height: 370px;
+    margin-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.container-twelve{
+    display: flex;
+}
+.container-forty{
+    display: flex;
+    margin-top: 80px;
+}
+.container-therty{
+    width: 480px;
+    margin-top: 100px;
+}
+.container-therty h1{
+    font-size: 33px;
+    color: white;
+    
+}
+.container-therty p{
+    margin-top: 40px;
+    text-align: justify;
+    color: white;
+}
+.parcent h1{
+    border: 10px solid blueviolet;
+    padding: 55px 50px;
+    border-radius: 100%;
+    text-align: center;
+    color: white;
+    
+}
+.parcent{
+    margin-left: 60px;
+
+}
+.parcent h2{
+    color: white;
+    margin-top: 20px;
+}
+
+
