@@ -78,7 +78,9 @@
 .container-four{
     display: flex;
     align-items: center;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
+    padding-left: 150px;
+    padding-right: 150px;
     
 }
 .container-five{
@@ -105,4 +107,51 @@
     background-color: blueviolet;
     color: white;
     border-color: blueviolet;
+    transition: 0.4s;
+}
+
+
+
+
+.container-six{
+    background-color: rgb(134, 96, 171);
+    height: 350px;
+    margin-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.container-seven{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container-seven img{
+    margin-top: -60px;
+}
+.container-eight{
+    width: 550px;
+}
+.container-eight h1{
+    font-size: 40px;
+    color: white;
+}
+.container-eight p{
+    margin-top: 20px;
+    color: white;
+}
+.container-eight button{
+    padding: 8px 30px;
+    border: 0.1px solid white;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(134, 96, 171);
+    font-weight: bold;
+    font-size: 16px;
+}
+.container-eight button:hover{
+    background-color: white;
+    color: black;
+    transition: 0.4s;
 }
