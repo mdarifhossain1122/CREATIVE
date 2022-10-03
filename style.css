@@ -155,3 +155,28 @@
     color: black;
     transition: 0.4s;
 }
+
+
+
+
+.container-nine{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.container-nine h1{
+    font-size: 40px;
+}
+.container-nine p{
+    margin-top: 20px;
+}
+.container-ten{
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.container-ten h1{
+    margin-top: 50px;
+}
+.container-ten p{
+    margin-top: 20px;
+}
