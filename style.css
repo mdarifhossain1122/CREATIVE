@@ -80,12 +80,14 @@
     display: flex;
     align-items: center;
     margin-bottom: 200px;
+    justify-content: space-around;
     padding-left: 150px;
     padding-right: 150px;
     
 }
 .container-five{
     width: 260px;
+    
 }
 .container-five h2{
     margin-top: 20px;
@@ -339,3 +341,43 @@
     transform: translateY(0);
     transition-delay: 0.8s;
 }
+
+
+
+
+
+.container-sixten{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    background-color: black;
+    padding: 80px 0;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.container-seventen{
+    width: 600px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 10px;
+}
+.container-eighten img{
+    border-radius: 100%;
+    margin-right: 20px;
+}
+.container-ninten h1{
+    margin-top: 15px;
+    color: white;
+}
+.container-ninten h3{
+    margin-top: 5px;
+    color: white;
+}
+.container-ninten p{
+    color: white;
+}
+
